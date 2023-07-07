@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    max-width: 450px;
+    margin: 40px auto;
+  }
+  h1 {
+    font-size: 35px;
+    max-width: auto;
+  }
+  
